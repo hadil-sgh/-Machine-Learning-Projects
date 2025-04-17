@@ -25,7 +25,7 @@ This repository will cover:
 
 ## 📬 Contact
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/) or open an issue if you have questions or suggestions!
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/hadil-sghair-a3a902231) or open an issue if you have questions or suggestions!
 
 ---
 
