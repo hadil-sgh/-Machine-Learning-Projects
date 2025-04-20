@@ -2,8 +2,8 @@
 # ************************************ Notes on Audio Processing Basics 
 #  ! Audio file Format
 # mp3 --> Lossy compression Format
-#flac --> Lossless compression Format permit to perfectly recontract the data
-#wav --> Uncompressed Format CD audio Quality
+# flac --> Lossless compression Format permit to perfectly recontract the data
+# wav --> Uncompressed Format CD audio Quality
  
 # ! Audio Signal Parameters
 #  - Number of channels 1 or 2 number of independent audio channels
@@ -13,6 +13,8 @@
 #  - value of frames
 
 import wave
+
+# ! Parameters Manipulation of Audio Signal
 
 # Parameters of the audio signal
 object = wave.open('harvard.wav', 'rb') # open the file in read mode
